@@ -1,4 +1,4 @@
-# Multiclass-multilabel-classification-on-Amazon-rainforest
+# Multilabel-classification-on-Amazon-rainforest
 ## Welcome ##
 ## Download data from link : https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data, the relavent files are train-jpg.tar.7z (600 megabytes) train v2.csv.zip (159 kilobytes, provided in my repository)
 ## Unzip using 7z , so on your ubuntu run command "sudo apt-get install p7zip". 
